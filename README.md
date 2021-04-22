@@ -11,8 +11,6 @@ Mr. CoderX
 </a>
 </details>
 
-
-
 <details>
 <summary>GitHub Stats</summary>
 <a href="https://github.com/CipherX1-ops">
