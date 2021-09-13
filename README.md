@@ -1,27 +1,15 @@
 # Mr. CoderX
 
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ToxygenX/&title=Profile%20Views)
+### Activities
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ToxygenX" alt="ToxygenX" /></a> </p>
-
-<details>
-<summary>⚜️ Most Used Languages</summary>
 <a href="https://github.com/ToxygenX">
-<p align="center">
-  <img width="350" height="125" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToxygenX&show_icons=true&title_color=30F229&icon_color=F2F407&text_color=F9F9F9&bg_color=000000&hide_border=true"" alt="CoderX github stats">
-</p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ToxygenX&layout=compact&show_icons=true&theme=midnight-purple&cache_seconds=5&hide_border=True" float=left/>
 </a>
-</details>
-
-<details>
-<summary>⚜️ GitHub Stats</summary>
-<a href="https://github.com/ToxygenX">
-<p align="center">
-<img width="460" height="300" src="https://github-readme-stats.vercel.app/api?username=ToxygenX&count_private=true&show_icons=true&title_color=30F229&icon_color=F2F407&text_color=F9F9F9&bg_color=000000&hide_border=true">
-<img width="460" height="300" src="https://github-readme-streak-stats.herokuapp.com/?user=ToxygenX&theme=chartreuse-dark&hide_border=True">
-</p>
+<a href="https://github.com/ToxygenX" display="inline-block">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToxygenX&layout=compact&theme=midnight-purple&cache_seconds=5&custom_title=Most%20Stuffs%20on:&langs_count=10&hide_border=True" float=left/>
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=ToxygenX&theme=radical&row=1&no-frame=true&no-bg=true" width=2000/>
 </a>
-</details>
+</p>
 
 <details>
 <summary>⚜️ Currently Listening</summary>
