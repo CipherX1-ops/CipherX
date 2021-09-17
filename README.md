@@ -12,10 +12,3 @@
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=ToxygenX&theme=radical&row=1&no-frame=true&no-bg=true" width=2000/>
 </a>
 </p>
-
-<details>
-<summary>⚜️ Currently Listening</summary>
-<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="WIZ KHALIFA Spotify Playing" width="400" />
-</p>
-</a>
-</details>
